@@ -10,33 +10,33 @@ Atualmente estou ampliando meus conhecimentos em automação de processos com n8
 
 ## 🚀 Áreas de atuação
 
-- Service Desk,
-- Suporte ERP, 
-- Atendimento B2B,
-- Gestão de SLA,
-- KPIs,
-- Documentação Técnica,
-- Melhoria Contínua,
-- Gestão do Conhecimento,
-- Inteligência Artificial,
+- Service Desk.
+- Suporte ERP.
+- Atendimento B2B.
+- Gestão de SLA.
+- KPIs.
+- Documentação Técnica.
+- Melhoria Contínua.
+- Gestão do Conhecimento.
+- Inteligência Artificial.
 
 ---
 
 ## 🛠 Tecnologias e Ferramentas
 
-- ERP
-- Confluence
-- Grafana
-- Firebird
-- SQL
-- Git
-- GitHub
-- JavaScript
-- HTML
-- CSS
-- ChatGPT
-- Claude
-- Gemini
+- ERP.
+- Confluence.
+- Grafana.
+- Firebird.
+- SQL.
+- Git.
+- GitHub.
+- JavaScript.
+- HTML.
+- CSS.
+- ChatGPT.
+- Claude.
+- Gemini.
 
 ---
 
@@ -58,5 +58,5 @@ Atualmente estou ampliando meus conhecimentos em automação de processos com n8
 
 ## 📫 Contato
 
-- LinkedIn
-- E-mail
+- LinkedIn: www.linkedin.com/in/kathlyn-lopes-ti
+- E-mail: klopes842@gmail.com
