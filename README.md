@@ -16,7 +16,6 @@ Atualmente estou ampliando meus conhecimentos em automação de processos com n8
 - Gestão de SLA
 - KPIs
 - Documentação Técnica
-- Confluence
 - Melhoria Contínua
 - Gestão do Conhecimento
 - Inteligência Artificial
