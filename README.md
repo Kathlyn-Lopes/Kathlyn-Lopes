@@ -10,15 +10,15 @@ Atualmente estou ampliando meus conhecimentos em automação de processos com n8
 
 ## 🚀 Áreas de atuação
 
-- Service Desk
-- Suporte ERP 
-- Atendimento B2B
-- Gestão de SLA
-- KPIs
-- Documentação Técnica
-- Melhoria Contínua
-- Gestão do Conhecimento
-- Inteligência Artificial
+- Service Desk,
+- Suporte ERP, 
+- Atendimento B2B,
+- Gestão de SLA,
+- KPIs,
+- Documentação Técnica,
+- Melhoria Contínua,
+- Gestão do Conhecimento,
+- Inteligência Artificial,
 
 ---
 
